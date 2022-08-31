@@ -11,6 +11,9 @@ RPG躲避小遊戲
 
 選擇關卡
 
+每通過一個關卡才會解鎖下一個關卡
+![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose2.jpg)
+關卡全部解鎖時，各關卡可以重複玩
 ![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose.jpg)
 
 選擇人物(若金幣數量足夠可購買其他角色)
