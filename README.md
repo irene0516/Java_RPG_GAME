@@ -13,24 +13,25 @@ RPG躲避小遊戲
 
 每通過一個關卡才會解鎖下一個關卡
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose2.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose2.jpg" width = "500" alt="choose2" align=center /> 
 
 關卡全部解鎖時，各關卡可以重複玩
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose.jpg" width = "500" alt="choose" align=center /> 
 
 ### 選擇人物(若金幣數量足夠可購買其他角色)
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose_person.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/choose_person.jpg" width = "500" alt="choose_person" align=center /> 
 
 ### 關卡一
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/first_stage.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/first_stage.jpg" width = "500" alt="first_stage" align=center /> 
+
 
 ### 關卡二
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/second_stage.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/second_stage.jpg" width = "500" alt="second_stage" align=center /> 
 
 ### 關卡三
 
-![image](https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/third_stage.jpg)
+<img src="https://github.com/irene0516/Java_RPG_GAME/blob/master/img-folder/third_stage.jpg" width = "500" alt="third_stage" align=center /> 
